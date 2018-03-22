@@ -1,0 +1,15 @@
+# Modify this file and save it as config.cfg
+
+[userInfo]
+customerName = John Doe
+cardName = John Doe
+burnerPassword = password1234
+cardNumber = 9999999999999999
+cardMonth = 3
+cardYear = 2020
+address = 123 Drury Lane
+city = Beverly Hills
+state = CA
+zip = 90210
+country = US
+phone = 8008675309

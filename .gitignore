@@ -1,0 +1,15 @@
+# zweed4u config
+config.cfg
+
+# burner domaines
+burner_domains.txt
+
+# pyc files
+*.pyc
+
+# pycharm
+*.idea/
+
+# chromedriver bin
+chromedriver
+
